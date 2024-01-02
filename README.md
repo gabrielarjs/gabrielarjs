@@ -15,7 +15,7 @@ Olá, seja bem-vindo ao meu GitHub, sou técnico em informatica, estudante de An
 ##
 
 <div>
-  <img src="https://github-readme-stats.vercel.app/api?username=gabrielarjs&show_icons=true&theme=dark#gh-dark-mode-only">
+  <img src="[https://github-readme-stats.vercel.app/api?username=gabrielarjs&show_icons=true&theme=dark#gh-dark-mode-only](https://github-readme-stats.vercel.app/api?username=gabrielarjs&show_icons=true&theme=dark#gh-dark-mode-only)">
 </div>
 
 ##
