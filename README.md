@@ -1,6 +1,6 @@
 ### 💻 Gabriel Araújo de Sousa :brazil:
 
-Olá, seja bem-vindo ao meu GitHub, sou técnico em informatica, estudante de Análise e Desenvolvimento de Sistemas no Instituto Federal de São Paulo e atualmente ocupo o cargo de estágiario em Service Desk na Transportes Della Volpe.
+Olá, seja bem-vindo ao meu GitHub, sou técnico em informatica, estudante de Análise e Desenvolvimento de Sistemas no Instituto Federal de São Paulo e atualmente ocupo o cargo de Analista de Service Desk Júnior na Transportes Della Volpe.
 
 ##
 <div>
